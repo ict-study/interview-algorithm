@@ -146,3 +146,8 @@ def nms(boxes, thres):
 
 1. 项目中数据均衡是怎么做的
 2. 算法题：马走遍所有的点有几种不同的途径
+
+## cv面试题
+[transformer](https://zhuanlan.zhihu.com/p/554814230)
+
+
